@@ -1,0 +1,36 @@
+.bookList{
+    display:inline-flex;
+  }
+  .homeBody{
+    display: block;
+  }
+  img{
+    height: 300px;
+    width:200px;
+    margin-top:10px;
+  }
+  .Ulist{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 250px;
+    background-color:whitesmoke;
+    margin:10px;
+    padding:2px;
+  }
+  .Ulist:hover{
+    box-shadow: 2px 3px 5px cornflowerblue;
+    color:rgb(150, 41, 8);
+  }
+  .serachBox{
+    border: 2px solid cornflowerblue;
+    padding:10px;
+    min-width: 400px;
+    margin: 5px;
+  }
+  .search{
+    background-color: cornflowerblue;
+    color:white;
+    border:transparent;
+    padding: 12px;
+  }
